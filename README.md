@@ -29,3 +29,5 @@ While working on this project I found below mentioned sources very helpful:
 
 - https://www.kaggle.com/datafan07/top-1-approach-eda-new-models-and-stacking
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, II Edition, O'Reilly, Aurelien Geron, 2019
+
+<i>September 2020, Paweł Sulewski</i>
